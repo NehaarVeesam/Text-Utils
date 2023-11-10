@@ -29,7 +29,7 @@ For Enabling the Dark Mode , click the switch at the right corner.
 <img width="958" alt="image" src="https://github.com/NehaarVeesam/Text-Utils/assets/107974475/a52344c1-4232-4f10-b83b-e7f98039904b">
 
 ### Enter the text
-<img width="956" alt="image" src="https://github.com/NehaarVeesam/Text-Utils/assets/107974475/53435d95-ad5c-4acc-a4bd-56da59d86e36">
+<img width="956" alt="image" src="https://github.com/NehaarVeesam/Text-Utils/assets/107974475/53435d95-ad5c-4acc-a4bd-56da59d86e36">.
 We have different functionalities like 
 - Convert into UpperCase.
 - Convert into LowerCase.
